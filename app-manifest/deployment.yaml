@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: wisecow
-        image: sourabhapatil24/wisecow-cicd:0
+        image: sourabhapatil24/wisecow-cicd:63
         ports:
         - containerPort: 4499

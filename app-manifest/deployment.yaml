@@ -18,4 +18,4 @@ spec:
       - name: wisecow
         image: sourabhapatil24/wisecow-cicd:63
         ports:
-        - containerPort: 8080
+        - containerPort: 4499
